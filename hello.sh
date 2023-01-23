@@ -1,3 +1,1 @@
-echo Mr Balraj
-echo "how are you"
-echo  "hello balraj"
+echo "This is testing"
